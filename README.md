@@ -1,1 +1,1 @@
-# nirspec_KPI
+# JWST NIRSpec Kernel Phase Interferometry Pipeline 
